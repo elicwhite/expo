@@ -204,6 +204,9 @@ export const defaultRenameConfig = [
   // Common
   '!**/node_modules',
   'app.json',
+  'app.config.json',
+  'app.config.js',
+  'app.config.ts',
 
   // Android
   'android/**/*.gradle',
